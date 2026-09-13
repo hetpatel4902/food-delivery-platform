@@ -74,6 +74,8 @@ A combined demonstration of the three applications is available, showing the end
 
 The demonstration covers the interaction between the three applications, including restaurant operations, order placement, order acceptance, delivery assignment, navigation, and delivery tracking.
 
+Video link - https://lnkd.in/p/gjuX5eZr
+
 ## 🔄 End-to-End Order Workflow
 
 The platform connects the three applications through a common order lifecycle:
